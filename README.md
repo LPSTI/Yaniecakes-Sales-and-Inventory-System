@@ -1,2 +1,4 @@
 # Yaniecakes-Sales-and-Inventory-System
-Info Man 
+
+The purpose of this project is to create an efficient and automated system for managing ingredients, finished goods, batch tracking, and monitoring recipe use in the food business. Its goal is to reduce waste and improve stock accuracy. And use of ingredients is based on their batch and expiration. 
+The system allows users to add and manage ingredients, register incoming batches with details like quantity and expiration dates, and connect the ingredients to the recipe of a menu. When a menu item is being prepared, the system automatically deducts the correct measurements of each ingredient from the recipe from the right batch, following FIFO (First In, First Out) logic. The system improves inventory management, supports stock monitoring, and enables better planning in food production.
