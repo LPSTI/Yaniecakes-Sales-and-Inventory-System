@@ -1,0 +1,32 @@
+Error logged at: 2025-05-09 10:36:06 - PHP Warning: Undefined array key "FIRSTNAM" in C:\xampp\htdocs\Yaniecakesv5\inventory\userlist.php on line 99
+Error logged at: 2025-05-09 10:37:18 - PHP Warning: Undefined array key "DND_IMAG" in C:\xampp\htdocs\Yaniecakesv5\index.php on line 128
+Error logged at: 2025-05-09 10:37:18 - PHP Warning: Undefined array key "DND_IMAG" in C:\xampp\htdocs\Yaniecakesv5\index.php on line 128
+Error logged at: 2025-05-09 10:37:18 - PHP Warning: Undefined array key "DND_IMAG" in C:\xampp\htdocs\Yaniecakesv5\index.php on line 128
+Error logged at: 2025-05-09 10:37:18 - PHP Warning: Undefined array key "DND_IMAG" in C:\xampp\htdocs\Yaniecakesv5\index.php on line 128
+Error logged at: 2025-05-09 10:37:27 - PHP Warning: Undefined array key "DND_IMAG" in C:\xampp\htdocs\Yaniecakesv5\index.php on line 128
+Error logged at: 2025-05-09 10:37:27 - PHP Warning: Undefined array key "DND_IMAG" in C:\xampp\htdocs\Yaniecakesv5\index.php on line 128
+Error logged at: 2025-05-09 10:37:27 - PHP Warning: Undefined array key "DND_IMAG" in C:\xampp\htdocs\Yaniecakesv5\index.php on line 128
+Error logged at: 2025-05-09 10:37:27 - PHP Warning: Undefined array key "DND_IMAG" in C:\xampp\htdocs\Yaniecakesv5\index.php on line 128
+Error logged at: 2025-05-09 11:01:32 - PHP Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Yaniecakesv5\profile.php on line 130
+Error logged at: 2025-05-09 11:01:32 - PHP Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Yaniecakesv5\profile.php on line 134
+Error logged at: 2025-05-09 11:01:32 - PHP Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Yaniecakesv5\profile.php on line 138
+Error logged at: 2025-05-09 11:01:32 - PHP Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Yaniecakesv5\profile.php on line 142
+Error logged at: 2025-05-09 11:01:32 - PHP Warning: Trying to access array offset on value of type null in C:\xampp\htdocs\Yaniecakesv5\profile.php on line 146
+Error logged at: 2025-05-09 12:20:30 - PHP Warning: Undefined variable $cat in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 187
+Error logged at: 2025-05-09 12:20:34 - PHP Warning: Undefined variable $cat in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 187
+Error logged at: 2025-05-09 12:21:18 - PHP Warning: Undefined variable $cat in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 187
+Error logged at: 2025-05-09 12:21:34 - PHP Warning: Undefined variable $cat in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 187
+Error logged at: 2025-05-09 12:22:18 - PHP Warning: Undefined variable $cat in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 141
+Error logged at: 2025-05-09 12:23:21 - PHP Warning: Undefined variable $cat in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 189
+Error logged at: 2025-05-09 12:23:27 - PHP Warning: Undefined variable $int in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 189
+Error logged at: 2025-05-09 12:23:31 - PHP Warning: Undefined variable $int in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 189
+Error logged at: 2025-05-09 12:23:49 - PHP Warning: Undefined variable $int in C:\xampp\htdocs\Yaniecakesv5\inventory\addin.php on line 189
+Error logged at: 2025-05-09 12:35:14 - PHP Warning: Undefined variable $IN_UNIT in C:\xampp\htdocs\Yaniecakesv5\inventory\updateing.php on line 21
+Error logged at: 2025-05-09 12:35:21 - PHP Warning: Undefined variable $IN_UNIT in C:\xampp\htdocs\Yaniecakesv5\inventory\updateing.php on line 21
+Error logged at: 2025-05-09 13:42:33 - PHP Warning: Undefined variable $itemlist in C:\xampp\htdocs\Yaniecakesv5\checkout.php on line 193
+Error logged at: 2025-05-10 05:22:32 - PHP Warning: Undefined variable $itemlist in C:\xampp\htdocs\Yaniecakesv5\checkout.php on line 193
+Error logged at: 2025-05-11 09:45:51 - PHP Warning: Undefined variable $itemlist in C:\xampp\htdocs\Yaniecakesv5\checkout.php on line 195
+Error logged at: 2025-05-11 13:04:33 - PHP Warning: Undefined array key "delmethod" in C:\xampp\htdocs\Yaniecakesv5\inventory\orderlist.php on line 293
+Error logged at: 2025-05-11 13:04:33 - PHP Warning: Undefined array key "delmethod" in C:\xampp\htdocs\Yaniecakesv5\inventory\orderlist.php on line 293
+Error logged at: 2025-05-11 13:04:33 - PHP Warning: Undefined array key "delmethod" in C:\xampp\htdocs\Yaniecakesv5\inventory\orderlist.php on line 293
+Error logged at: 2025-05-11 14:37:30 - PHP Warning: Undefined variable $sqlc in C:\xampp\htdocs\Yaniecakesv5\db\database.php on line 23
